@@ -1,3 +1,7 @@
+A repository for my branch of cellprofiler, so I can modify it and share it between machines at my work.
+
+
+
 ![CellProfiler](src/frontend/cellprofiler/data/images/splash.png)
 
 [![Version](https://img.shields.io/badge/version-4.2.4-green.svg)](https://cellprofiler.org/releases)
